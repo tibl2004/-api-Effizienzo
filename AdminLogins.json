@@ -6,7 +6,7 @@
             "nachname": "Admin",
             "username": "Admin.Restwert",
             "password": "R3st3ff1z.",
-            "enddatum": "21.03.2024",
+            "enddatum": "2024-03-21",
             "loggedIn": false
         },
         {
@@ -15,6 +15,7 @@
             "nachname": "Hofmann",
             "username": "AlHof",
             "password": "A73xR35tw3rt",
+            "enddatum": "2024-03-21",
             "loggedIn": false
         },
         {
@@ -23,6 +24,7 @@
             "nachname": "Baraniak",
             "username": "NaBar",
             "password": "Nad7aR35tw3rt",
+            "enddatum": "2024-03-21",
             "loggedIn": false
         },
         {
@@ -31,6 +33,7 @@
             "nachname": "Scherrer",
             "username": "CoSch",
             "password": "C0rn371aR35tw3rt",
+            "enddatum": "2024-03-21",
             "loggedIn": false
         },
         {
@@ -39,6 +42,7 @@
             "nachname": "123",
             "username": "123",
             "password": "123",
+            "enddatum": "2024-03-21",
             "loggedIn": false
         }
     ]
