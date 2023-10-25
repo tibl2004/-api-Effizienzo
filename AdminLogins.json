@@ -45,5 +45,137 @@
             "enddatum": "2024-03-21",
             "loggedIn": false
         }
+    ],
+  
+    "boxes": [
+        {
+            "id": 1,
+            "text": "Verkauf",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 2,
+            "text": "Telefon",
+            "backgroundColor": "#f61e61"
+        },
+        {
+            "id": 3,
+            "text": "Empfang",
+            "backgroundColor": "#008800"
+        },
+        {
+            "id": 4,
+            "text": "Nachbearbeitung",
+            "backgroundColor": "#808080"
+        },
+        {
+            "id": 5,
+            "text": "Reaktivierung",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 6,
+            "text": "Nichtverkauf",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 7,
+            "text": "Bewertungen",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 8,
+            "text": "Fragen & Mails",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 9,
+            "text": "Erfassen",
+            "backgroundColor": "#f8de00"
+        },
+        {
+            "id": 10,
+            "text": "Inserieren",
+            "backgroundColor": "#32cd32"
+        },
+        {
+            "id": 11,
+            "text": "Fotografieren"
+        },
+        {
+            "id": 12,
+            "text": "Freigeben",
+            "backgroundColor": "#b026ff"
+        },
+        {
+            "id": 13,
+            "text": "Lager",
+            "backgroundColor": "#808080"
+        },
+        {
+            "id": 14,
+            "text": "Pakete",
+            "backgroundColor": "#808080"
+        },
+        {
+            "id": 15,
+            "text": "Fotoordner kontrollieren",
+            "backgroundColor": "#000000"
+        },
+        {
+            "id": 16,
+            "text": "Tagesplanung",
+            "backgroundColor": "#000000"
+        },
+        {
+            "id": 17,
+            "text": "Ordnung im Büro",
+            "backgroundColor": "#808080"
+        },
+        {
+            "id": 18,
+            "text": "Frei"
+        },
+        {
+            "id": 19,
+            "text": "Ferien"
+        },
+        {
+            "id": 20,
+            "text": "Krank",
+            "backgroundColor": "#ff0000"
+        },
+        {
+            "id": 21,
+            "text": "Zahlungsabgleich 1",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 22,
+            "text": "Zahlungsabgleich 2",
+            "backgroundColor": "#ff8661"
+        },
+        {
+            "id": 23,
+            "text": "Schule",
+            "backgroundColor": "#008800"
+        },
+        {
+            "id": 24,
+            "text": "NV-Artikel aussortieren"
+        },
+        {
+            "id": 25,
+            "text": "Monatsabschluss"
+        },
+        {
+            "id": 26,
+            "text": "Kasse"
+        },
+        {
+            "id": 27,
+            "text": "Mahnungen"
+        }
     ]
+    
 }
