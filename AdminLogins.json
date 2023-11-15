@@ -7,7 +7,8 @@
           "username": "Admin.Restwert",
           "password": "R3st3ff1z.",
           "enddatum": "2024-03-21",
-          "loggedIn": false
+          "loggedIn": false,
+          "isAdmin": true
         },
         {
           "id": 2,
@@ -16,7 +17,8 @@
           "username": "AlHof",
           "password": "A73xR35tw3rt",
           "enddatum": "2024-03-21",
-          "loggedIn": false
+          "loggedIn": false,
+          "isAdmin": true
         },
         {
           "id": 3,
@@ -25,7 +27,8 @@
           "username": "NaBar",
           "password": "Nad7aR35tw3rt",
           "enddatum": "2024-03-21",
-          "loggedIn": false
+          "loggedIn": false,
+          "isAdmin": true
         },
         {
           "id": 4,
@@ -34,7 +37,8 @@
           "username": "CoSch",
           "password": "C0rn371aR35tw3rt",
           "enddatum": "2024-03-21",
-          "loggedIn": false
+          "loggedIn": false,
+          "isAdmin": true
         },
         {
           "id": 5,
@@ -43,7 +47,8 @@
           "username": "123",
           "password": "123",
           "enddatum": "2024-03-21",
-          "loggedIn": false
+          "loggedIn": false,
+          "isAdmin": true
         }
       ],
       
