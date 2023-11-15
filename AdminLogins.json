@@ -1,58 +1,178 @@
 {
+    "admins": [
+      {
+        "id": 1,
+        "vorname": "Admin",
+        "nachname": "Admin",
+        "username": "Admin.Restwert",
+        "password": "R3st3ff1z.",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": true
+      },
+      {
+        "id": 2,
+        "vorname": "Alexandra",
+        "nachname": "Hofmann",
+        "username": "AlHof",
+        "password": "A73xR35tw3rt",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": true
+      },
+      {
+        "id": 3,
+        "vorname": "Nadja",
+        "nachname": "Baraniak",
+        "username": "NaBar",
+        "password": "Nad7aR35tw3rt",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": true
+      },
+      {
+        "id": 4,
+        "vorname": "Cornelia",
+        "nachname": "Scherrer",
+        "username": "CoSch",
+        "password": "C0rn371aR35tw3rt",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": true
+      },
+      {
+        "id": 5,
+        "vorname": "123",
+        "nachname": "123",
+        "username": "123",
+        "password": "123",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": true
+      }
+    ],
     "users": [
-        {
-          "id": 1,
-          "vorname": "Admin",
-          "nachname": "Admin",
-          "username": "Admin.Restwert",
-          "password": "R3st3ff1z.",
-          "enddatum": "2024-03-21",
-          "loggedIn": false,
-          "isAdmin": true
-        },
-        {
-          "id": 2,
-          "vorname": "Alexandra",
-          "nachname": "Hofmann",
-          "username": "AlHof",
-          "password": "A73xR35tw3rt",
-          "enddatum": "2024-03-21",
-          "loggedIn": false,
-          "isAdmin": true
-        },
-        {
-          "id": 3,
-          "vorname": "Nadja",
-          "nachname": "Baraniak",
-          "username": "NaBar",
-          "password": "Nad7aR35tw3rt",
-          "enddatum": "2024-03-21",
-          "loggedIn": false,
-          "isAdmin": true
-        },
-        {
-          "id": 4,
-          "vorname": "Cornelia",
-          "nachname": "Scherrer",
-          "username": "CoSch",
-          "password": "C0rn371aR35tw3rt",
-          "enddatum": "2024-03-21",
-          "loggedIn": false,
-          "isAdmin": true
-        },
-        {
-          "id": 5,
-          "vorname": "123",
-          "nachname": "123",
-          "username": "123",
-          "password": "123",
-          "enddatum": "2024-03-21",
-          "loggedIn": false,
-          "isAdmin": true
-        }
-      ],
-      
- 
+      {
+        "id": 1,
+        "vorname": "Lenny",
+        "name": "Balmer",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 2,
+        "vorname": "Lukas",
+        "name": "Hanke",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 3,
+        "vorname": "Elena",
+        "name": "Haldimann",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 4,
+        "vorname": "Levin",
+        "name": "Mühlethaler",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 5,
+        "vorname": "Andre",
+        "name": "Kuhlo",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 6,
+        "vorname": "Matthias",
+        "name": "Schild",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 7,
+        "vorname": "Marco",
+        "name": "Hofer",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 8,
+        "vorname": "Noemi",
+        "name": "Bianchi",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 9,
+        "vorname": "Lea",
+        "name": "Moser",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 10,
+        "vorname": "Angela",
+        "name": "Gleyvod",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 11,
+        "vorname": "Janine",
+        "name": "Affolter",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      },
+      {
+        "id": 12,
+        "vorname": "Chatelain",
+        "name": "Angeles",
+        "benutzername": "",
+        "passwort": "",
+        "enddatum": "2024-03-21",
+        "loggedIn": false,
+        "isAdmin": false
+      }
+    ],
   
     "boxes": [
         {
