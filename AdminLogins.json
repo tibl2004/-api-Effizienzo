@@ -51,128 +51,130 @@
         "isAdmin": true
       }
     ],
-    "users": [
-      {
-        "id": 1,
-        "vorname": "Lenny",
-        "name": "Balmer",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 2,
-        "vorname": "Lukas",
-        "name": "Hanke",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 3,
-        "vorname": "Elena",
-        "name": "Haldimann",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 4,
-        "vorname": "Levin",
-        "name": "Mühlethaler",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 5,
-        "vorname": "Andre",
-        "name": "Kuhlo",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 6,
-        "vorname": "Matthias",
-        "name": "Schild",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 7,
-        "vorname": "Marco",
-        "name": "Hofer",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 8,
-        "vorname": "Noemi",
-        "name": "Bianchi",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 9,
-        "vorname": "Lea",
-        "name": "Moser",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 10,
-        "vorname": "Angela",
-        "name": "Gleyvod",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 11,
-        "vorname": "Janine",
-        "name": "Affolter",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      },
-      {
-        "id": 12,
-        "vorname": "Chatelain",
-        "name": "Angeles",
-        "benutzername": "",
-        "passwort": "",
-        "enddatum": "2024-03-21",
-        "loggedIn": false,
-        "isAdmin": false
-      }
-    ],
+"users": [
+  {
+    "id": 1,
+    "vorname": "Lenny",
+    "name": "Balmer",
+    "benutzername": "LeBa",
+    "passwort": "L3nnyBalm3r",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 2,
+    "vorname": "Lukas",
+    "name": "Hanke",
+    "benutzername": "LuHa",
+    "passwort": "Luk4sH4nk3",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 3,
+    "vorname": "Elena",
+    "name": "Haldimann",
+    "benutzername": "ElHa",
+    "passwort": "El3n4H4ldim4nn",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 4,
+    "vorname": "Levin",
+    "name": "Mühlethaler",
+    "benutzername": "LeMü",
+    "passwort": "L3v1nMüh1eth4ler",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 5,
+    "vorname": "Andre",
+    "name": "Kuhlo",
+    "benutzername": "AnKu",
+    "passwort": "Andr3Kuhlo",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 6,
+    "vorname": "Matthias",
+    "name": "Schild",
+    "benutzername": "MaSc",
+    "passwort": "M4tthi4sSch1ld",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 7,
+    "vorname": "Marco",
+    "name": "Hofer",
+    "benutzername": "MaHo",
+    "passwort": "M4rc0Hof3r",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 8,
+    "vorname": "Noemi",
+    "name": "Bianchi",
+    "benutzername": "NoBi",
+    "passwort": "N03miBi4nchi",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 9,
+    "vorname": "Lea",
+    "name": "Moser",
+    "benutzername": "LeMo",
+    "passwort": "L34M0ser",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 10,
+    "vorname": "Angela",
+    "name": "Gleyvod",
+    "benutzername": "AnGl",
+    "passwort": "4ng3l4Gl3yv0d",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 11,
+    "vorname": "Janine",
+    "name": "Affolter",
+    "benutzername": "JaAf",
+    "passwort": "J4nin3Aff0lt3r",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  },
+  {
+    "id": 12,
+    "vorname": "Chatelain",
+    "name": "Angeles",
+    "benutzername": "ChAn",
+    "passwort": "Ch4t3lain4ngel3s",
+    "enddatum": "2024-03-21",
+    "loggedIn": false,
+    "isAdmin": false
+  }
+],
+
+
   
     "boxes": [
         {
